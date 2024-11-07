@@ -1,0 +1,777 @@
+
+@misc{ToddTim,
+Author = {Todd Timberlake},
+Title = {Mapping the Milky Way: William Herschel's Star-Gages},
+Year = {2011},
+Eprint = {arXiv:1112.3635},
+}
+
+@Inbook{Herschel_Legacy,
+author="Steinicke, Wolfgang",
+editor="Cunningham, Clifford J.",
+title="William Herschel's `Star Gages' and the Structure of the Milky Way",
+bookTitle="The Scientific Legacy of William Herschel",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="59--95",
+abstract="William Herschel's epochal observing campaign, using a self-made 18.7-in. reflector, lasted from 1783 to 1802. During his `sweeps,' designed to find new nebulae and star clusters, he carried out a great number of star counts. In these so-called `star gages' Herschel counted the number of stars seen in the field of view. One major result was the star distribution for a considerable part of the sky, observable from the Windsor area. Of course, the stars appeared strongly concentrated towards the band of the Milky Way.",
+isbn="978-3-319-32826-3",
+doi="10.1007/978-3-319-32826-3_3",
+url="https://doi.org/10.1007/978-3-319-32826-3_3"
+}
+
+
+@article{Herschel_Conclusion,
+  author = {Bernard, Lovell},
+  title = {Herschel's Work on the Structure of the Universe},
+  journal = {Notes and Records of the Royal Society of London},
+  year = {1978},
+  volume = {33},
+  number = {1},
+  pages = {57-75},
+  URL = {https://www.jstor.org/stable/531676},
+}
+@article{Kapteyn_1922, title={First attempt at a theory of the arrangement and motion of the Sidereal System}, volume={55}, DOI={10.1086/142670}, journal={The Astrophysical Journal}, author={Kapteyn, J. C.}, year={1922}, pages={302}} 
+@online{theuns2024interstellardust,
+  author    = {Theuns, T.},
+  title     = {Interstellar Dust},
+  year      = {2024},
+  url       = {https://icc.dur.ac.uk/~tt/Lectures/Galaxies/TeX/lec/node31.html#:~:text=Given%20the%20typical%20size%20of},
+  note      = {Accessed on 2 Feb. 2024},
+}
+@online{rudolphMilkyWayRotation,
+  author    = {Rudolph, A. and Astronomy, C. and Pomona},
+  title     = {Understanding the Rotation of the Milky Way Using Radio Telescope Observations},
+  year      = {n.d.},
+  url       = {https://euhou.obspm.fr/public/Milky_Way_Rotation_A4.pdf},
+}
+
+@online{bunker2006molecular,
+  author    = {Bunker, P. R. and Jensen, P.},
+  title     = {Molecular Symmetry and Spectroscopy},
+  year      = {2006},
+  url       = {https://books.google.co.uk/books?id=FZEI7VmjNyMC&lpg=PA414&pg=PA414#v=onepage&q&f=false},
+  note      = {Accessed on 2 Feb. 2024},
+  pages     = {414},
+  publisher = {NRC Research Press},
+}
+@online{rae2016quantum,
+  author    = {Rae, Alastair I. M. and Napolitano, Jim},
+  title     = {Quantum Mechanics},
+  year      = {2016},
+  url       = {https://0-search-ebscohost-com.pugwash.lib.warwick.ac.uk/login.aspx?direct=true&db=nlebk&AN=1763874&site=bsi-live},
+  note      = {Accessed on 2 Feb. 2024},
+  pages     = {200},
+  edition   = {Sixth},
+  publisher = {CRC Press},
+}
+@incollection{Shapley,
+    author = {I.S., Glass},
+    isbn = {9780199550258},
+    title = "{HARLOW SHAPLEY: DEFINING OUR GALAXY}",
+    booktitle = "{Revolutionaries of the Cosmos: The Astro-Physicists}",
+    publisher = {Oxford University Press},
+    year = {2008},
+    month = {10},
+    doi = {10.1093/acprof:oso/9780199550258.003.0008},
+    url = {https://doi.org/10.1093/acprof:oso/9780199550258.003.0008},
+    eprint = {https://academic.oup.com/book/0/chapter/148724357/chapter-ag-pdf/44990096/book\_5661\_section\_148724357.ag.pdf},
+}
+
+@article{1785,
+  author = {William, Herschel},
+  volume = {75},
+  ISSN = {2053-9223},
+  url = {http://dx.doi.org/10.1098/rstl.1785.0012},
+  DOI = {10.1098/rstl.1785.0012},
+  journal = {Philosophical Transactions of the Royal Society of London},
+  publisher = {The Royal Society},
+  year = {1785},
+  month = dec,
+  pages = {213–266}
+}
+@ARTICLE{Barnard_Confirms,
+       author = {{Barnard}, E.~E.},
+        title = "{On the dark markings of the sky, with a catalogue of 182 such objects.}",
+      journal = {\apj},
+         year = 1919,
+        month = jan,
+       volume = {49},
+        pages = {1-24},
+          doi = {10.1086/142439},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1919ApJ....49....1B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Trumpler_Dust,
+       author = {{Trumpler}, Robert J.},
+        title = "{Absorption of Light in the Galactic System}",
+      journal = {\pasp},
+         year = 1930,
+        month = aug,
+       volume = {42},
+       number = {248},
+        pages = {214},
+          doi = {10.1086/124039},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1930PASP...42..214T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@ARTICLE{Lovell_Article,
+       author = {{Lovell}, B.},
+        title = "{The Emergence of Radio Astronomy in the U.K. after World-War}",
+      journal = {\qjras},
+         year = 1987,
+        month = mar,
+       volume = {28},
+        pages = {1},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1987QJRAS..28....1L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@Inbook{Kellermann2020,
+author="Kellermann, Kenneth I.
+and Bouton, Ellen N.
+and Brandt, Sierra S.",
+title="The Postwar Explosion in Radio Astronomy: The US Falls Behind",
+bookTitle="Open Skies: The National Radio Astronomy Observatory and Its Impact on US Radio Astronomy",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="35--75",
+abstract="During the Second World War, a number of radar scientists independently discovered powerful radio emission from the Sun. Following the cessation of hostilities, and making use of their wartime experience, scientists, mostly at Jodrell Bank and Cambridge in the UK and in Sydney, Australia, used discarded radar systems to further investigate the complex solar radio emission, discovered powerful radio emission from old supernova explosions, and even more powerful radio sources from what later became known as radio galaxies. Encouraged by their early successes with relatively primitive equipment and the potential for new discoveries, scientists in the UK, Australia, the USSR, and the Netherlands developed plans to build more powerful radio telescopes and sophisticated new instrumentation.",
+isbn="978-3-030-32345-5",
+doi="10.1007/978-3-030-32345-5_2",
+url="https://doi.org/10.1007/978-3-030-32345-5_2"
+}
+
+@online{eso,
+  author = {{European Space Agency}},
+  title = {The Hubble Tuning Fork - Classification of Galaxies},
+  year = {n.d.},
+  url = {https://esahubble.org/images/heic9902o/},
+  note = {[Online]},
+  organization = {www.spacetelescope.org}
+}
+
+@ARTICLE{SpiralConfirmation,
+       author = {{van Woerden}, Hugo and {Strom}, Richard G.},
+        title = "{The beginnings of radio astronomy in the Netherlands}",
+      journal = {Journal of Astronomical History and Heritage},
+     keywords = {Radio astronomy, 21 cm hydrogen line, Oort, Van de Hulst, Muller, Netherlands, Kootwijk, NERA},
+         year = 2006,
+        month = jun,
+       volume = {9},
+       number = {1},
+        pages = {3-20},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006JAHH....9....3V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@book{galilei188,
+  author    = {Galilei, Galileo and Kepler, Johannes and Carlos, E. S.},
+  title     = {The Sidereal Messenger of Galileo Galilei and a Part of the Preface to Kepler's Dioptrics Containing the Original Account of Galileo's Astronomical Discoveries},
+  year      = {1880},
+  publisher = {Rivingtons},
+  address   = {London, etc.},
+  url       = {https://www.loc.gov/item/07005111/},
+}
+
+
+@book{sullivan1984,
+  title={The Early Years of Radio Astronomy: Reflections Fifty Years After Jansky's Discovery},
+  editor={Sullivan, W. T.},
+  year={1984},
+  publisher={Cambridge University Press},
+  isbn={978-0-521-61602-7}
+}
+
+@Inbook{Jansky_Origin,
+author="Lauterbach, Thomas",
+title="Introduction: What Is Radio Astronomy?",
+bookTitle="Radio Astronomy: Small Radio Telescopes: Basics, Technology, and Observations",
+year="2022",
+publisher="Springer Fachmedien Wiesbaden",
+address="Wiesbaden",
+pages="1--10",
+isbn="978-3-658-36035-1",
+doi="10.1007/978-3-658-36035-1_1",
+url="https://doi.org/10.1007/978-3-658-36035-1_1"
+}
+@misc{Radio_Advantage,
+  author = {{National Aeronautics and Space Administration, Science Mission Directorate}},
+  title = {Radio Waves},
+  howpublished = {\url{http://science.nasa.gov/ems/05_radiowaves}},
+  note = {Retrieved [06/03/2024]},
+  year = {2010},
+}
+@misc{convert,
+    title = {Online Unit Converters},
+    url ={https://www.translatorscafe.com/unit-converter/en-US/length/21-1/parsec-meter/}
+
+} 
+@book{pasachoff1993astronomy,
+  title={Astronomy, from the Earth to the Universe},
+  author={Pasachoff, J.M.},
+  isbn={9780030946608},
+  lccn={90052772},
+  series={Saunders golden sunburst series},
+  url={https://books.google.co.uk/books?id=Z9BUAAAAYAAJ},
+  year={1993},
+  publisher={Saunders College Pub.}
+}
+
+@ARTICLE{Attenuation,
+       author = {{Watson}, William D.},
+        title = "{Interstellar molecule reactions}",
+      journal = {Reviews of Modern Physics},
+         year = 1976,
+        month = oct,
+       volume = {48},
+       number = {4},
+        pages = {513-552},
+          doi = {10.1103/RevModPhys.48.513},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1976RvMP...48..513W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{van_de_Hulst,
+       author = {{van Woerden}, Hugo and {Strom}, Richard G.},
+        title = "{The beginnings of radio astronomy in the Netherlands}",
+      journal = {Journal of Astronomical History and Heritage},
+     keywords = {Radio astronomy, 21 cm hydrogen line, Oort, Van de Hulst, Muller, Netherlands, Kootwijk, NERA},
+         year = 2006,
+        month = jun,
+       volume = {9},
+       number = {1},
+        pages = {3-20},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006JAHH....9....3V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@book{Mechanics_of_21cm,
+  title={Introduction to Modern Astrophysics},
+  author={Carroll, Bradley W and Ostlie, Dale A},
+  year={2014},
+  publisher={Pearson},
+  address={Harlow, Essex},
+  pages={443--445}
+}
+@article{lin1964spiral,
+  title={On the spiral structure of disk galaxies},
+  author={Lin, C.C. and Shu, F.H.},
+  journal={Astrophysical Journal},
+  volume={140},
+  pages={646--655},
+  year={1964},
+  doi={10.1086/147955},
+  bibcode={1964ApJ...140..646L}
+}
+
+@article{chiu2020,
+  author = {Chiu, Camille K. and Strigari, Louis E.},
+  title = {Testing the Accuracy of the Tangent Point Method for Determining the Milky Way's Inner Rotation Curve},
+  journal = {Res. Notes AAS},
+  volume = {4},
+  pages = {165},
+  year = {2020}
+}
+@INPROCEEDINGS{TemperatureofISM,
+       author = {{Westerhout}, Gart},
+        title = "{A Summary of Our Knowledge of the Neutral Hydrogen in Galaxies}",
+    booktitle = {Problems of Extra-Galactic Research},
+         year = 1962,
+       editor = {{McVittie}, George Cunliffe},
+       volume = {15},
+        month = jan,
+        pages = {70},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1962IAUS...15...70W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@article{Batra_2022,
+doi = {10.1088/1742-6596/2267/1/012053},
+url = {https://dx.doi.org/10.1088/1742-6596/2267/1/012053},
+year = {2022},
+month = {may},
+publisher = {IOP Publishing},
+volume = {2267},
+number = {1},
+pages = {012053},
+author = {V Batra and P R Maharana},
+title = {Structure and kinematics of the Milky Way galaxy using atomic hydrogen},
+journal = {Journal of Physics: Conference Series},
+abstract = {The present study uses the hyper-fine transition of atomic hydrogen, HI (1420 MHz) to map the structure and kinematics of the Milky Way galaxy. The observation was carried out for galactic longitude 20° ≤ ℓ ≤ 220° and galactic latitude −20° ≤ b ≤ 20° each in 5° steps using the SALSA 2.3m Radio Telescope located at Onsala Space Observatory, Sweden. The velocity components of HI clouds were determined using Gaussian decomposition of the observed spectrum and these values were projected onto the Galactic plane for the identification of spiral structure of the galaxy. The Perseus, Local and Outer arms were identified using the Longitude velocity plots and x-y plots (face-on maps). The rotational velocities of the HI clouds were determined using the tangent-point method and the resulting rotation curve comes out to be consistent with the literature in the range 4 ≤ R ≤ 8 kpc.}
+}
+
+@ARTICLE{Chemin,
+       author = {{Chemin}, Laurent and {Renaud}, Florent and {Soubiran}, Caroline},
+        title = "{Incorrect rotation curve of the Milky Way}",
+      journal = {\aap},
+     keywords = {ISM: kinematics and dynamics, Galaxy: kinematics and dynamics, Astrophysics - Astrophysics of Galaxies},
+         year = 2015,
+        month = jun,
+       volume = {578},
+          eid = {A14},
+        pages = {A14},
+          doi = {10.1051/0004-6361/201526040},
+archivePrefix = {arXiv},
+       eprint = {1504.01507},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015A&A...578A..14C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+}
+@book{Redshift_Equation,
+
+author={Carroll,Bradley W. and Ostlie,Dale A.},
+
+year={2014},
+
+title={An introduction to modern astrophysics},
+
+publisher={Pearson},
+
+address={Harlow, Essex},
+
+edition={Pearson new international;Second;},
+
+abstract={An Introduction to Modern Astrophysics, Second Edition has been thoroughly revised to reflect the dramatic changes and advancements in astrophysics that have occurred over the past decade. The Second Edition of this market-leading book has been updated to include the latest results from relevant fields of astrophysics and advances in our theoretical understanding of astrophysical phenomena. Designed for sophomore-level astrophysics for astronomy and physics majors, An Introduction to Modern Astrophysics is now offered in two derivative versions: Introduction to Modern Stellar Astrophysics,},
+
+keywords={Astrophysics},
+
+isbn={9781292036113;1292036117;9781292022932;1292022930;},
+
+language={English},
+
+}
+@article{pretzl2000,
+  author = {Pretzl, Klaus},
+  title = {Focus on Dark Matter},
+  journal = {New J. Phys.},
+  volume = {2},
+  pages = {001},
+  month = {February},
+  year = {2000},
+  doi = {10.1088/1367-2630/2/1/001}
+}
+@article{Xu_2013,
+    author = {{Xu}, Y. and {Li}, J. J. and {Reid}, M. J. and {Menten}, K. M. and {Zheng}, X. W. and {Brunthaler}, A. and {Moscadelli}, L. and {Dame}, T. M. and {Zhang}, B.},
+    title = "{On the Nature of the Local Spiral Arm of the Milky Way}",
+    journal = {The Astrophysical Journal},
+    volume = {769},
+    number = {1},
+    pages = {15},
+    year = {2013},
+    doi = {10.1088/0004-637X/769/1/15},
+    publisher = {American Astronomical Society},
+    copyright = {© 2013. The American Astronomical Society. All rights reserved.},
+}
+
+@ARTICLE{WhereWeAre,
+       author = {{Reid}, M.~J. and {Menten}, K.~M. and {Brunthaler}, A. and {Zheng}, X.~W. and {Dame}, T.~M. and {Xu}, Y. and {Li}, J. and {Sakai}, N. and {Wu}, Y. and {Immer}, K. and {Zhang}, B. and {Sanna}, A. and {Moscadelli}, L. and {Rygl}, K.~L.~J. and {Bartkiewicz}, A. and {Hu}, B. and {Quiroga-Nu{\~n}ez}, L.~H. and {van Langevelde}, H.~J.},
+        title = "{Trigonometric Parallaxes of High-mass Star-forming Regions: Our View of the Milky Way}",
+      journal = {\apj},
+     keywords = {Milky Way, Milky Way dynamics, Milky Way rotation, Trigonometric parallax, Star formation, Gravitational wave sources, 1054, 1051, 1059, 1713, 1569, 677, Astrophysics - Astrophysics of Galaxies},
+         year = 2019,
+        month = nov,
+       volume = {885},
+       number = {2},
+          eid = {131},
+        pages = {131},
+          doi = {10.3847/1538-4357/ab4a11},
+archivePrefix = {arXiv},
+       eprint = {1910.03357},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...885..131R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{Egg,
+       author = {{Eggen}, O.~J. and {Lynden-Bell}, D. and {Sandage}, A.~R.},
+        title = "{Evidence from the motions of old stars that the Galaxy collapsed.}",
+      journal = {\apj},
+         year = 1962,
+        month = nov,
+       volume = {136},
+        pages = {748},
+          doi = {10.1086/147433},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1962ApJ...136..748E},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@Article{Sofue,
+AUTHOR = {Sofue, Yoshiaki},
+TITLE = {Rotation Curve of the Milky Way and the Dark Matter Density},
+JOURNAL = {Galaxies},
+VOLUME = {8},
+YEAR = {2020},
+NUMBER = {2},
+ARTICLE-NUMBER = {37},
+URL = {https://www.mdpi.com/2075-4434/8/2/37},
+ISSN = {2075-4434},
+ABSTRACT = {We review the current status of the study of rotation curve (RC) of the Milky Way, and present a unified RC from the Galactic Center to the galacto-centric distance of about 100 kpc. The RC is used to directly calculate the distribution of the surface mass density (SMD). We then propose a method to derive the distribution of dark matter (DM) density in the in the Milky Way using the SMD distribution. The best-fit dark halo profile yielded a local DM density of &rho; ⊙ = 0.36 &plusmn; 0.02 GeV cm &minus; 3 . We also review the estimations of the local DM density in the last decade, and show that the value is converging to a value at &rho; ⊙ = 0.39 &plusmn; 0.09 GeV cm &minus; 3 .},
+DOI = {10.3390/galaxies8020037}
+}
+
+
+@ARTICLE{Halo,
+       author = {{Kalberla}, P.~M.~W. and {Westphalen}, G. and {Mebold}, U. and {Hartmann}, Dap and {Burton}, W.~B.},
+        title = "{HI in the galactic halo}",
+      journal = {\aap},
+     keywords = {GALAXY: HALO, GALAXY: KINEMATICS AND DYNAMICS, RADIO LINES: ISM},
+         year = 1998,
+        month = apr,
+       volume = {332},
+        pages = {L61-L64},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1998A&A...332L..61K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@ARTICLE{First_Success,
+       author = {{van de Hulst}, H.~C. and {Muller}, C.~A. and {Oort}, J.~H.},
+        title = "{The spiral structure of the outer part of the Galactic System derived from the hydrogen emission at 21 cm wavelength}",
+      journal = {\bain},
+         year = 1954,
+        month = may,
+       volume = {12},
+        pages = {117},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1954BAN....12..117V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{Bar_Centre,
+       author = {{de Vaucouleurs}, G.},
+        title = "{Interpretation of velocity distribution of the inner regions of the Galaxy}",
+    booktitle = {The Galaxy and the Magellanic Clouds},
+         year = 1964,
+       editor = {{Kerr}, Frank J.},
+       volume = {20},
+        month = jan,
+        pages = {195},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1964IAUS...20..195D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{MW_Size,
+       author = {{Goodwin}, S.~P. and {Gribbin}, J. and {Hendry}, M.~A.},
+        title = "{The relative size of the Milky Way}",
+      journal = {The Observatory},
+         year = 1998,
+        month = aug,
+       volume = {118},
+        pages = {201-208},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1998Obs...118..201G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@ARTICLE{MW_Class,
+       author = {{Gerhard}, Ortwin},
+        title = "{Mass distribution in our Galaxy}",
+      journal = {\ssr},
+     keywords = {Astrophysics},
+         year = 2002,
+        month = jan,
+       volume = {100},
+        pages = {129-138},
+          doi = {10.1023/A:1015818111633},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0203110},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2002SSRv..100..129G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@book{MW_Class1,
+
+author={Combes,F. and Lequeux,James},
+
+year={2016},
+
+title={The Milky Way: structure, dynamics, formation and evolution},
+
+publisher={EDP Sciences},
+
+address={Paris, [France]},
+
+keywords={Evolution; Galaxies},
+
+isbn={9782759820016;2759820017;},
+
+language={English},
+
+}
+@book{Dark_Matter,
+
+author={Ryden,Barbara S.},
+
+year={2017},
+
+title={Introduction to cosmology},
+
+publisher={Cambridge University Press},
+
+address={Cambridge},
+
+edition={Second},
+
+keywords={Cosmology},
+
+isbn={9781316651087;1316651088;},
+
+language={English},
+
+}
+@article{Disk_Distribution_HI,
+author = {Kalberla, Peter M.W. and Kerp, J\"{u}rgen},
+title = {The Hi Distribution of the Milky Way},
+journal = {Annual Review of Astronomy and Astrophysics},
+volume = {47},
+number = {1},
+pages = {27-61},
+year = {2009},
+doi = {10.1146/annurev-astro-082708-101823},
+
+URL = { 
+    
+        https://doi.org/10.1146/annurev-astro-082708-101823
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1146/annurev-astro-082708-101823
+    
+    
+
+}
+}
+@article{Levine_2006,
+   title={The Vertical Structure of the Outer Milky Way H<scp>i</scp>Disk},
+   volume={643},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.1086/503091},
+   DOI={10.1086/503091},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Levine, E. S. and Blitz, Leo and Heiles, Carl},
+   year={2006},
+   month=jun, pages={881–896} }
+@ARTICLE{Detail,
+       author = {{Dickey}, John M. and {Lockman}, Felix J.},
+        title = "{H I in the galaxy.}",
+      journal = {\araa},
+     keywords = {H I Regions, Milky Way Galaxy, Absorption Spectra, Lyman Alpha Radiation, Molecular Clouds, Radio Emission, Ultraviolet Astronomy, Very Long Base Interferometry, Astrophysics},
+         year = 1990,
+        month = jan,
+       volume = {28},
+        pages = {215-261},
+          doi = {10.1146/annurev.aa.28.090190.001243},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1990ARA&A..28..215D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@inbook{Carroll_Ostlie_2017, place={Cambridge}, title={Chapter 5}, booktitle={An introduction to modern astrophysics}, publisher={Cambridge University Press}, author={Carroll, Bradley W. and Ostlie, Dale A.}, year={2017}, pages={126}} 
+@article{Great_Debate,
+  author = {Evans, Ben},
+  title = {The Great Debate - 100 years later},
+  journal = {Astronomy.com},
+  year = {2020},
+  month = {April 25},
+  note = {Retrieved 18-12-2023},
+  url = {https://www.astronomy.com},
+}
+@inbook{Carroll_1, place={Cambridge}, title={Chapter 22}, booktitle={An introduction to modern astrophysics}, publisher={Cambridge University Press}, author={Carroll, Bradley W. and Ostlie, Dale A.}, year={2017}, pages={935-937}} 
+@article{Bhattacharjee2014,
+  author = {{Bhattacharjee}, Pijushpani and {Chaudhury}, Soumini and {Kundu}, Susmita},
+  title = "{Rotation Curve of the Milky Way Out to $\sim$200 kpc}",
+  journal = {The Astrophysical Journal},
+  volume = {785},
+  number = {1},
+  pages = {63},
+  year = {2014},
+  doi = {10.1088/0004-637X/785/1/63},
+}
+@proceedings{kellermann1983serendipitous,
+  title={Serendipitous Discoveries in Radio Astronomy: Proceedings of a Workshop held at the National Radio Astronomy Observatory, Green Bank, West Virginia on May 4, 5, 6, 1983; Honoring the 50th Anniversary Announcing the Discovery of Cosmic Radio Waves by Karl G. Jansky on May 5, 1933},
+  editor={Kellermann, K. and Sheets, B.},
+  year={1983},
+  publisher={National Radio Astronomy Observatory},
+  address={Green Bank, WV}
+}
+@online{theuns21cm,
+  author = {Tom Theuns},
+  title = {21-cm radiation},
+  url = {https://icc.dur.ac.uk/~tt/Lectures/Galaxies/TeX/lec/node35.html},
+  note = {Accessed: 31st December 2023}
+}
+@ARTICLE{GalacticRotationCurve,
+       author = {{Sofue}, Yoshiaki and {Honma}, Mareki and {Omodaka}, Toshihiro},
+        title = "{Unified Rotation Curve of the Galaxy -- Decomposition into de Vaucouleurs Bulge, Disk, Dark Halo, and the 9-kpc Rotation Dip --}",
+      journal = {\pasj},
+     keywords = {Galaxy: bulge, Galaxy: disk, Galaxy: rotation curve, Galaxy: structure, Astrophysics},
+         year = 2009,
+        month = feb,
+       volume = {61},
+        pages = {227},
+          doi = {10.1093/pasj/61.2.227},
+archivePrefix = {arXiv},
+       eprint = {0811.0859},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009PASJ...61..227S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@ARTICLE{Heavens,
+       author = {{Herschel}, William},
+        title = "{On the Construction of the Heavens.}",
+      journal = {Philosophical Transactions of the Royal Society of London Series I},
+         year = 1785,
+        month = jan,
+       volume = {75},
+        pages = {213-266},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1785RSPT...75..213H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@ARTICLE{OortMap,
+       author = {{Oort}, J.~H. and {Kerr}, F.~J. and {Westerhout}, G.},
+        title = "{The galactic system as a spiral nebula (Council Note)}",
+      journal = {\mnras},
+         year = 1958,
+        month = jan,
+       volume = {118},
+        pages = {379},
+          doi = {10.1093/mnras/118.4.379},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1958MNRAS.118..379O},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@article{Chiu_2020,
+doi = {10.3847/2515-5172/abbad8},
+url = {https://dx.doi.org/10.3847/2515-5172/abbad8},
+year = {2020},
+month = {sep},
+publisher = {The American Astronomical Society},
+volume = {4},
+number = {9},
+pages = {165},
+author = {Camille K. Chiu and Louis E. Strigari},
+title = {Testing the Accuracy of the Tangent Point Method for Determining the Milky Way’s Inner Rotation Curve},
+journal = {Research Notes of the AAS},
+abstract = {The tangent point method (TPM) is commonly used to calculate the rotation curve of the inner portion of the Milky Way, relying on the assumption that along one line of sight, the point tangent to the Galactic center is the point where the observed radial velocity is an extremum. This work compares rotation curves derived from the TPM, using neutral hydrogen gas data, and direct measurements of stellar positions and velocities from the Gaia Satellite. The Gaia data indicate that the rotation curve based upon stellar kinematics is much shallower than that previously reported based on the TPM, especially in the inner regions of the Galaxy. Additionally, based on stellar kinematics, the locations of the extremum radial velocities and tangent points often differ. While these results are consistent with previously published simulations, future data from the Gaia satellite will allow for further confidence in determining an accurate rotation curve.}
+}
+
+@misc{NASA_MilkyWay,
+    author = {{NASA/JPL-Caltech/R. Hurt (SSC/Caltech)}},
+    title = {{The Milky Way Galaxy}},
+    howpublished = {\url{https://science.nasa.gov/resource/the-milky-way-galaxy/}},
+    note = {Accessed: 01/01/24}
+}
+
+
+@Inbook{DeVaucouleurs1959,
+author="De Vaucouleurs, G.",
+editor="Fl{\"u}gge, S.",
+title="Classification and Morphology of External Galaxies",
+bookTitle="Astrophysik IV: Sternsysteme / Astrophysics IV: Stellar Systems",
+year="1959",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="275--310",
+abstract="The earliest systems of classification of ``nebulae„ by W. Herschel and others have been described by H. D. Curtis in his article of the ``Handbuch der Astrophysik'' [A]1. The spiral form of some nebulae was first detected visually by Lord Rosse and his assistants between 1845 and 18502 and the appellation elliptical first used in a purely descriptive way was applied to non-spiral tub presumably external stellar systems by S. Alexander in 18523.",
+isbn="978-3-642-45932-0",
+doi="10.1007/978-3-642-45932-0_7",
+url="https://doi.org/10.1007/978-3-642-45932-0_7"
+}
+
+
+@article{Jodrell,
+ ISSN = {00211753, 15456994},
+ URL = {http://0-www-jstor-org.pugwash.lib.warwick.ac.uk/stable/229936},
+ author = {Richard Berendzen},
+ journal = {Isis},
+ number = {2},
+ pages = {264--265},
+ publisher = {[The University of Chicago Press, The History of Science Society]},
+ reviewed-author = {Bernard Lovell},
+ urldate = {2023-12-31},
+ volume = {60},
+ year = {1969}
+}
+@misc{hulst1994jan,
+  title={Jan Hendrik Oort, 28 April 1900-5 November 1992},
+  author={Hulst, Hendrik Christoffel Van De},
+  year={1994},
+  publisher={The Royal Society London}
+}
+@online{jodrellbank2022story,
+  title={The Story of Jodrell Bank},
+  author={{Jodrell Bank}},
+  year={2022},
+  url={https://www.jodrellbank.net/explore/heritage/the-story-of-jodrell-bank/#:~:text=Pioneering%20science&text=Black%20holes%2C%20quasars%2C%20pulsars%2C,cutting%2Dedge%20of%20modern%20astrophysics},
+  note={Accessed: 31st December 2023}
+}
+
+
+@Inbook{Irvine2011,
+author="Irvine, William M.",
+editor="Gargaud, Muriel
+and Amils, Ricardo
+and Quintanilla, Jos{\'e} Cernicharo
+and Cleaves, Henderson James (Jim)
+and Irvine, William M.
+and Pinti, Daniele L.
+and Viso, Michel",
+title="Reddening, Interstellar",
+bookTitle="Encyclopedia of Astrobiology",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="1439--1440",
+isbn="978-3-642-11274-4",
+doi="10.1007/978-3-642-11274-4_1355",
+url="https://doi.org/10.1007/978-3-642-11274-4_1355"
+}
+
+
+@book{extinction,
+
+author={Anonymous },
+
+editor={Karttunen,Hannu},
+
+year={2016},
+
+title={Fundamental astronomy},
+
+publisher={Springer},
+
+address={Heidelberg},
+
+edition={Sixth},
+
+abstract={Now in its sixth edition this successful undergraduate textbook gives a well-balanced and comprehensive introduction to the topics of classical and modern astronomy. While emphasizing both the astronomical concepts and the underlying physical principles, the text provides a sound basis for more profound studies in the astronomical sciences. The chapters on galactic and extragalactic astronomy as well as cosmology were extensively modernized in the previous edition. In this new edition they have been further revised to include more recent results. The long chapter on the solar system has been split into two parts: the first one deals with the general properties, and the other one describes individual objects. A new chapter on exoplanets has been added to the end of the book next to the chapter on astrobiology. In response to the fact that astronomy has evolved enormously over the last few years, only a few chapters of this book have been left unmodified. Long considered a standard text for physical science majors, Fundamental Astronomy is also an excellent reference and entrée for dedicated amateur astronomers. For their benefit the introductory chapter has been extended to give a brief summary of the different types of celestial objects. From reviews of earlier editions: " . The wide range of expertise gives the book an authority that would be almost impossible for a single-author text . There are other aids to the reader: worked examples . starred sections in small print take the inquisitive reader beyond the general level of the book." (Nature) "This textbook, suitable for a university first course in astronomy, is the outgrowth of a long and outstanding astronomical tradition in Finland, and the result of an extensive collaborative effort, which included also teaching and interaction with many people. . I highly recommend this book for class use . it will be useful for professionals as well." (Bruno Bertotti, Prometeo, Vol. 24 (3-4), 2008)},
+
+keywords={Astronomie; Astronomy},
+
+isbn={3662530457;9783662530450;},
+
+language={English},
+
+}
+@book{blundell2009concepts,
+  title={Concepts in Thermal Physics},
+  author={Blundell, Stephen J. and Blundell, Katherine M.},
+  year={2009},
+  edition={2nd},
+  publisher={Oxford},
+  url={https://0-doi-org.pugwash.lib.warwick.ac.uk/10.1093/acprof:oso/9780199562091.001.0001},
+  note={Online edition: Oxford Academic, 1 Jan. 2010},
+  accessed={26 Feb. 2024}
+}

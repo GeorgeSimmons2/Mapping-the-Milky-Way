@@ -1,0 +1,3 @@
+The source code is only applicable to the files that have been supplied, however one could quite easily make a few modifications to be able to take a folder of various hydrogen emission spectra and go through each and produce a map. I encourage anyone interested in Galactic radio astronomy to take a look at the reference list posted in this project's files.
+
+Please do not hesitate to reach out with questions via GitHub.
